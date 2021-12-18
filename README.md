@@ -32,8 +32,7 @@
 
 ![Erik's GitHub stats](https://github-readme-stats.vercel.app/api?username=erik-vasilev&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erik-vasilev)](https://github.com/erik-vasilev/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erik-vasilev&layout=compact)](https://github.com/erik-vasilev/github-readme-stats)
 
 [twitter]: https://twitter.com/erik_vasilev01
 [instagram]: https://www.instagram.com/erik_vasilev01
